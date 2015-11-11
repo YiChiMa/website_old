@@ -1,0 +1,80 @@
+iframe
+{
+  border: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Avenir;
+  padding: 0px;
+  border: 0px;
+}
+
+#quote {
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#quoteText
+{
+  padding: 20px;
+}
+
+#info{
+  padding-bottom: 20px;
+}
+
+#apple-logo
+{
+    width: 100px;
+    padding-bottom: 6px;
+}
+
+#octocat
+{
+    width: 50px;
+    height: 50px;
+}
+
+#xkcd
+{
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+  transition: .3s background-color;
+}
+
+.nav a:hover {
+  background-color: #005f5f;
+}
+
+.nav li {
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 1.4em;
+
+  display: inline-block;
+  margin-right: -5px;
+}
