@@ -1,4 +1,8 @@
-
+#head {
+  border-color: #2e77ff;
+  text-align: center;
+  border-width: none none solid none;
+}
 
 body {
   background-color: black;
