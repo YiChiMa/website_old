@@ -20,16 +20,17 @@ body {
   width:250px;
 }
 #quote {
-  border-color: black;
+  border-color: #08112c;
   border-width: 5px;
   border-style: solid;
+  background-color: #08112c;
 }
 
 #quoteText
 {
   padding: 20px;
+  color: white;
 }
-
 #info{
   padding-bottom: 20px;
 }
