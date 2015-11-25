@@ -2,7 +2,7 @@
   border-color: #005f5f;
   text-align: left;
   font-family: Avenir;
-  font-size: ;
+  font-size: 20;
   border-style: none none solid none;
   background-color: #005f5f;
 }
@@ -30,14 +30,12 @@ body {
 {
   padding: 20px;
   color: white;
+  font-size:16;
+  
 }
 #info{
   padding-bottom: 20px;
 }
-
-
-
-
 
 #xkcd
 {
