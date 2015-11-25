@@ -1,20 +1,23 @@
-#head {
-  border-color: #2e77ff;
-  text-align: center;
-  border-width: none none solid none;
+#headText {
+  border-color: #005f5f;
+  text-align: left;
+  font-family: Avenir;
+  font-size: ;
+  border-style: none none solid none;
+  background-color: #005f5f;
 }
 
 body {
-  background-color: black;
+  background-color: #f0f8ff;
   text-align: center;
-  color: white;
+  color: black;
   font-family: Avenir;
   padding: 0px;
   border: 0px;
 }
 
 #quote {
-  border-color: white;
+  border-color: black;
   border-width: 5px;
   border-style: solid;
 }
@@ -54,7 +57,7 @@ body {
   text-decoration: none;
   text-align: center;
   display: block;
-  color: #fff;
+  color: black;
   transition: .3s background-color;
 }
 
