@@ -16,6 +16,9 @@ body {
   border: 0px;
 }
 
+#mainImg{
+  width:700px;
+}
 #quote {
   border-color: black;
   border-width: 5px;
