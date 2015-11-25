@@ -2,7 +2,7 @@
   border-color: #005f5f;
   text-align: left;
   font-family: Avenir;
-  font-size: ;
+  font-size: 26;
   border-style: none none solid none;
   background-color: #005f5f;
 }
@@ -16,24 +16,26 @@ body {
   border: 0px;
 }
 
+#mainImg{
+  width:250px;
+}
 #quote {
-  border-color: black;
+  border-color: #08112c;
   border-width: 5px;
   border-style: solid;
+  background-color: #08112c;
 }
 
 #quoteText
 {
   padding: 20px;
+  color: white;
+  font-size:20;
+  
 }
-
 #info{
   padding-bottom: 20px;
 }
-
-
-
-
 
 #xkcd
 {
