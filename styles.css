@@ -61,13 +61,13 @@ body {
 .nav a {
   text-decoration: none;
   display: block;
-  color: #fff;
+  color: black;
   transition: .3s background-color;
 }
 
 .nav a:hover {
   background-color: #005f5f;
-  font-size: 1.8em;
+
 }
 
 .nav li {
