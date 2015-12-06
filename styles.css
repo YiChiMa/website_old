@@ -49,6 +49,7 @@ body {
   border-style: solid;
   background-color: #08112c;
   padding:20px;
+  border:20px;
 }
 
 #quoteText
