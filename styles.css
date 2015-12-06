@@ -48,6 +48,7 @@ body {
   border-width: 5px;
   border-style: solid;
   background-color: #08112c;
+  padding:20px;
 }
 
 #quoteText
