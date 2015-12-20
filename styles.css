@@ -1,4 +1,11 @@
-
+#headText {
+ border-color: #005f5f;
+ text-align: left;
+ font-family: Avenir;
+ font-size: 26;
+ border-style: none none solid none;
+ background-color: #005f5f;
+ -}
 .container{
   position: relative;
   left:0;
