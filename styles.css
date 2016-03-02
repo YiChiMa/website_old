@@ -1,7 +1,7 @@
 #headText {
  border-color: #005f5f;
  text-align: left;
- font-family: Avenir;
+ font-family: "Raleway";
  font-size: 26;
  border-style: none none solid none;
  background-color: #005f5f;
@@ -23,7 +23,7 @@
   background-position:center center center center;
   font-size:2.0em;
   color:white;
-  font-family: Avenir;
+  font-family: "Raleway";
 }
 
 
@@ -31,14 +31,14 @@ body {
   
   text-align: center;
   color: black;
-  font-family: Avenir;
+  font-family: "Raleway";
   padding: 0px;
   border: 0px;
 }
 #frontPage{
   text-align: left;
   color: white;
-  font-family: Avenir;
+  font-family: "Raleway";
   font-size:0.3em;
   padding: 3px;
   border: 0px;
