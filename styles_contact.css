@@ -130,8 +130,8 @@ body {
 	padding-top: 82px;
 	padding-bottom: 82px;
 	font-weight: 100;
+	/*background-color: #495370;*/
 	background-color: #495370;
-	
 	height: 100%;
 }
 
@@ -146,8 +146,10 @@ body {
 	color: #ededf4;
 }
 
-.contact_section a{
-	
+.email:hover{
+	transition: -webkit-filter 0.3s, filter 0.3s;
+  	-webkit-filter: invert(0.3);
+  	filter: invert(0.3);
 }
 
 .quotes p{
