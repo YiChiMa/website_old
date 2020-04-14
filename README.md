@@ -1,3 +1,3 @@
 # YiChiMa.github.io
 Personal Page
-Please go to: [http://yichima.github.io](yichima.github.io "Here")
+Please go to: [http://yichima.github.io](http://yichima.github.io "Here")
